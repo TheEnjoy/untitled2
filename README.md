@@ -12,17 +12,17 @@ Jar файл лежит в каталоге untitled2_jar (Путь: \out\artifa
 
 # Пример файла конфигурации H1
 ```
-a=z</br>
-b=y</br>
-c=x</br>
+a=z
+b=y
+c=x
 ```
 
 # Пример файла с входными данными H1
 
 ```
-djf#aemfaofna%</br>
-b#sjf_ansvo!</br>
-cnhjrfyjvth3nxr</br>
+djf#aemfaofna%
+b#sjf_ansvo!
+cnhjrfyjvth3nxr
 ```
 # Пример команды для запуска jar файла  H1
 
