@@ -1,4 +1,4 @@
-package com.company;
+﻿package com.company;
 
 import java.io.*;
 import java.util.Properties;
@@ -64,7 +64,7 @@ public class Main {
         }
         bw.write(lineTextFile);
         bw.close();
-        System.out.println("Done! " + "Create: " + fileNameOut  );
+        System.out.println("Done! " + "Created: " + fileNameOut  );
 
     }
 
